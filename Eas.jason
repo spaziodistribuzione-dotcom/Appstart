@@ -1,0 +1,14 @@
+{
+  "cli": { "version": ">= 7.0.0" },
+  "build": {
+    "production": {
+      "ios": { "resourceClass": "m-medium" },
+      "env": {}
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": { "appleId": "TUO-APPLE-ID@EMAIL.COM" }
+    }
+  }
+}
